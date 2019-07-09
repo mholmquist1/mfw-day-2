@@ -1,0 +1,39 @@
+.container-fluid {
+    background-color:yellow;
+}
+
+.col-md {
+    background-color:blue;
+    height:150px;
+    border:1px solid black;
+}
+
+.col-md-12 {
+    background-color:green;
+    height:50px;
+    border:1px solid black;
+}
+
+.col-md-9 {
+    background-color:red;
+    height:200px;
+    border:1px solid black;
+}
+
+.col-md-3 {
+    background-color:skyblue;
+    height:200px;
+    border:1px solid black;
+}
+
+.orange {
+    background-color:orange;
+    height:150px;
+    border:1px solid black;
+}
+
+.footer {
+    background-color:black;
+    height:50px;
+    border:1px solid black;
+}
